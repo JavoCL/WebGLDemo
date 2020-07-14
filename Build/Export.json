@@ -1,7 +1,7 @@
 {
 "companyName": "DefaultCompany",
 "productName": "Demo WebGL AR",
-"productVersion": "0.0.4",
+"productVersion": "0.0.5",
 "dataUrl": "Export.data.unityweb",
 "wasmCodeUrl": "Export.wasm.code.unityweb",
 "wasmFrameworkUrl": "Export.wasm.framework.unityweb",
